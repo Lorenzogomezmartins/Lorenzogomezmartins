@@ -8,7 +8,7 @@
 <h1 style="display: inline-block">Acerca de mí</h1>
 
 
-Me encuentro estudiando una Tecnicatura universitaria en Programación, en la Universidad Tecnologia Nacional (UTN). Me caracterizo por ser una persona responsable y organizada, con disposicion horaria y buen trabajo en equipo. Siempre estoy dispuesto a seguir aprendiendo y adquiriendo nuevos conocimientos que me permitan desarrollarme en este nuevo camino.
+Me encuentro estudiando una Tecnicatura universitaria en Programación, en la Universidad Tecnologica Nacional (UTN). Me caracterizo por ser una persona responsable y organizada, con disposicion horaria y buen trabajo en equipo. Siempre estoy dispuesto a seguir aprendiendo y adquiriendo nuevos conocimientos que me permitan desarrollarme en este nuevo camino.
 <br />
 
 
