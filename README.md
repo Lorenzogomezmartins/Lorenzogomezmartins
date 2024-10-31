@@ -29,6 +29,13 @@ Me encuentro estudiando una Tecnicatura universitaria en Programación, en la Un
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=,github,java,python,git,html,css, MySQL" />
   </a>
+
+ ## 🦾 Herramientas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=NetBeans,vscode" />
+  </a>
+</p>
 </p>
 
 <ul align="center"> 
