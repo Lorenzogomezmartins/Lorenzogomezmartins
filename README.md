@@ -27,7 +27,7 @@ Me encuentro estudiando una Tecnicatura universitaria en Programación, en la Un
 ## 🛠️ My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,github,java,python,git,html,css, MySQL" />
+    <img src="https://skillicons.dev/icons?i=,github,java,python,git,html,css" />
 	  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
   </a>
