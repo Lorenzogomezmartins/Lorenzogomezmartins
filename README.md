@@ -27,7 +27,7 @@ Me encuentro estudiando una Tecnicatura universitaria en Programación, en la Un
 ## 🛠️ My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,github,java,python,git,html,css, mysql" />
+    <img src="https://skillicons.dev/icons?i=,github,java,python,git,html,css, MySQL" />
   </a>
 </p>
 
