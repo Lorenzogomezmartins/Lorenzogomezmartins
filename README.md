@@ -8,7 +8,9 @@
 <h1 style="display: inline-block">Acerca de mí</h1>
 
 
-Me encuentro estudiando una Tecnicatura universitaria en Programación, en la Universidad Tecnologica Nacional (UTN). Me caracterizo por ser una persona responsable y organizada, con disposicion horaria y buen trabajo en equipo. Siempre estoy dispuesto a seguir aprendiendo y adquiriendo nuevos conocimientos que me permitan desarrollarme en este nuevo camino.
+Actualmente, me encuentro estudiando una Tecnicatura Universitaria en Programación en la UTN, lo cual me permite adquirir conocimientos y habilidades técnicas en programación y desarrollo de software. Termine mis estudios secundarios en el año 2023, en los que obtuve el titulo Bachillerato en Comunicación Social, esto me brindo una sólida base en expresión, análisis crítico y comunicacional.
+Me caracterizo por ser una persona entusiasta y curiosa, con una gran pasión por el aprendizaje. Siempre estoy buscando nuevas formas de ampliar mis conocimientos y mejorar mis habilidades.
+También me considero alguien con una gran capacidad para el trabajo en equipo y en resolución de problemas. Disfruto colaborar con otros, compartir ideas y aprender de las perspectivas de mis compañeros, lo cual enriquece el trabajo y permite alcanzar soluciones innovadoras y efectivas.
 <br />
 
 
